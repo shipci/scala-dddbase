@@ -2,9 +2,9 @@
 
 If you use this library, you can develop applications based on Domain Driven Design advocated by Eric Evans.
 
-[![Build Status](https://travis-ci.org/sisioh/scala-dddbase.png?branch=master)](https://travis-ci.org/sisioh/scala-dddbase)
 
 
 ## Short url
 
 http://git.io/scala-dddbase
+[![Build Status](https://apibeta.shippable.com/projects/540975e36042fd4600c1f6cd/badge?branchName=master)](https://beta.shippable.com/projects/540975e36042fd4600c1f6cd/builds/latest)
