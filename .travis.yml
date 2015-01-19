@@ -5,6 +5,7 @@ scala:
  - 2.10.4
  - 2.11.1
 
+build_image: shippable/minv2:beta
 
 script:
  - "sbt ++$TRAVIS_SCALA_VERSION test"
